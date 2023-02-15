@@ -11,7 +11,7 @@ Or if you have any question/feedback, please do not hesitate to reach out to me!
 
 👤 **Md-Ruhul-Amin-Rony**
 
-- Github: [@juiceghost](https://github.com/Md-Ruhul-Amin-Rony) 
+- Github: [@Md-Ruhul-Amin-Rony](https://github.com/Md-Ruhul-Amin-Rony) 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-ruhul-amin-104140128/)
 
 ## Technologies Used
